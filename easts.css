@@ -1,0 +1,1347 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  border: 0px solid black;
+ }
+#wrapper2{
+  width: 100%;
+  height: auto;
+  border: 1px solid black;  
+  
+}
+#container2{
+  max-width: 960px ;
+  height:700px;
+  border: 0px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  padding: 65px;
+  padding-right: 145px;
+
+  background-image: url("70s.jpeg");
+  border: 1px solid black;
+background-size: 100% 700px;
+width: 960px;
+height: 700px;
+
+}
+
+#pricing{
+  width: 30%;
+  height: 700px;
+  border: 3px solid #BF522A;
+background-color: #F2D8C9;
+opacity: 0.9;
+border-top: 5px solid #F2A97E;
+}
+
+
+dt{
+  text-align: center;
+  color: black;
+  font-size: 2em;
+  text-align: center;
+  border: 4px solid white;
+  height: 100px;
+  padding-top: 70px;
+  padding-bottom: -30px;
+color: #BF5E26;
+  background-color: #F5DF70;
+  margin-bottom: 20px;
+}
+#money{
+font-size: 0.2em;
+}
+#h12{
+  text-align: center;
+  color:#D99066;
+  font-size: 2em;
+  text-align: center;
+}
+h2{
+  text-align:center;
+}
+span{
+  font-size: 3em;
+
+}
+dd{
+  color: #BF522A;
+}
+
+
+#light{
+
+  width: 450px;
+  height:300px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -40px;
+  margin-left: 50px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+background-position: center;
+background-attachment: scroll;
+display: inline-block;
+transform: rotate(40deg);]
+
+}
+#long{
+
+  width: 450px;
+  height: 250px;
+  background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -30px;
+  margin-left: 250px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+ 
+}
+
+#light{
+
+  width: 450px;
+  height:300px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -40px;
+  margin-left: 50px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+background-position: center;
+display: inline-block;
+transform: rotate(40deg);
+  background-attachment: fixed;
+}
+#long{
+
+  width: 450px;
+  height: 250px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -30px;
+  margin-left: 250px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+  background-position: center;
+transform: rotate(40deg);
+border-radius: 5px;
+  background-attachment: fixed;
+
+}
+#fash{
+
+  width: 450px;
+  height: 230px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -440px;
+  margin-left: 780px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+background-position: center;
+transform: rotate(40deg);
+border-radius: 5px;
+  background-attachment: fixed;
+}
+#curve{
+border-radius: 5px;
+  width: 450px;
+  height: 250px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -210px;
+  margin-left: 610px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+background-position: center;
+transform: rotate(40deg);
+  background-attachment: fixed;
+}
+#square1{
+  margin-top: 180px;
+  margin-left: 430px;
+width: 450px;
+  height: 250px;
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+background-image: url("fenceblack.jpeg");
+background-position: center;
+background-size: 100%;
+  background-attachment: fixed;
+}
+#square4{
+  
+  margin-top: -30px;
+  margin-left: -310px;
+width: 450px;
+  height: 270px;
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+background-image: url("fenceblack.jpeg");
+  background-attachment: fixed;
+}
+#square8{
+  
+  margin-top: -200px;
+  margin-left: -120px;
+width: 450px;
+  height: 270px;
+background-color: white;
+border: 2px solid black;
+transform: rotate(40deg);
+background-image: url("fenceblack.jpeg");
+  background-attachment: fixed;
+}
+#square2{
+  margin-top: -100px;
+  margin-left: 420px;
+width: 450px;
+  height: 230px;
+background-color: white;
+
+background-image: url("fenceblack.jpeg");
+border: 3px solid black;
+transform: rotate(40deg);
+  background-attachment: fixed;
+}
+#square5{
+  margin-top: -80px;
+  margin-left: 990px;
+width: 450px;
+  background-attachment: fixed;
+background-image:  url("fenceblack.jpeg");
+
+  height: 230px;
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+
+}
+#square6{
+margin-top: -420px;
+  margin-left: 1150px;
+width: 450px;
+  height: 230px;
+  
+background-image:  url("fenceblack.jpeg");
+
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+  background-attachment: fixed;
+}
+
+#square7{
+margin-top: -720px;
+  margin-left: 940px;
+width: 450px;
+  height: 230px;
+  
+background-image:  url("fenceblack.jpeg");
+
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+  background-attachment: fixed;
+}
+#square3{
+  margin-top: -320px;
+  margin-left: -120px;
+width: 350px;
+  height: 230px;
+  
+background-image:  url("fenceblack.jpeg");
+
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+  background-attachment: fixed;
+}
+
+.out{
+width: 50%;
+height: auto;
+border: 0px solid black;
+overflow: hidden;
+background-attachment: fixed;
+min-width: 700px;
+height: 570px;
+  }
+  #cover{
+    width: 100%;
+    height: auto;
+    border: 0px solid WHITE;
+    margin-top: -570px;
+    position: absolute;
+  background-color:WHITE; 
+    opacity: 0.5;
+min-width: 700px;
+height: 570px;
+
+  }
+  #circle{
+  
+    height: 300px;
+    width: 300px;
+border-radius: 100%;
+
+margin-top: -440px;
+position: absolute;
+margin-left: 40%;
+
+  }
+  p{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 1.3em;
+    font-family: 'Dancing Script', cursive;
+      width: 400px;
+      margin-left: -20%;
+
+  }
+#light{
+
+  width: 450px;
+  height:300px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -40px;
+  margin-left: 50px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+background-position: center;
+display: inline-block;
+transform: rotate(40deg);
+
+}
+#long{
+
+  width: 450px;
+  height: 250px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -30px;
+  margin-left: 250px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+  background-position: center;
+transform: rotate(40deg);
+border-radius: 5px;
+
+
+}
+#fash{
+
+  width: 450px;
+  height: 230px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -440px;
+  margin-left: 780px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+background-position: center;
+transform: rotate(40deg);
+border-radius: 5px;
+}
+#curve{
+border-radius: 5px;
+  width: 450px;
+  height: 250px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -210px;
+  margin-left: 610px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+background-position: center;
+transform: rotate(40deg);
+
+}
+#square1{
+  margin-top: 180px;
+  margin-left: 430px;
+width: 450px;
+  height: 250px;
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+background-image: url("fenceblack.jpeg");
+background-position: center;
+background-size: 100%;
+
+}
+#square4{
+  
+  margin-top: -30px;
+  margin-left: -310px;
+width: 450px;
+  height: 270px;
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+background-image: url("fenceblack.jpeg");
+
+
+}
+#square8{
+  
+  margin-top: -300px;
+  margin-left: -120px;
+width: 450px;
+  height: 270px;
+background-color: white;
+border: 0px solid black;
+transform: rotate(40deg);
+background-image: url("fenceblack.jpeg");
+
+}
+#square2{
+  margin-top: -370px;
+  margin-left: 420px;
+width: 450px;
+  height: 230px;
+background-color: white;
+
+background-image: url("fenceblack.jpeg");
+border: 0px solid black;
+transform: rotate(40deg);
+}
+#square5{
+  margin-top: -80px;
+  margin-left: 990px;
+width: 450px;
+
+background-image:  url("fenceblack.jpeg");
+
+  height: 230px;
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+
+}
+#square6{
+margin-top: -420px;
+  margin-left: 1150px;
+width: 450px;
+  height: 230px;
+  
+background-image:  url("fenceblack.jpeg");
+
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+}
+#square7{
+margin-top: -720px;
+  margin-left: 940px;
+width: 450px;
+  height: 230px;
+  
+background-image:  url("fenceblack.jpeg");
+
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+}
+#square3{
+  margin-top: -320px;
+  margin-left: -120px;
+width: 350px;
+  height: 230px;
+  
+background-image:  url("fenceblack.jpeg");
+
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+
+}
+
+.out{
+width: 100%;
+height: auto;
+border: 0px solid black;
+overflow: hidden;
+background-attachment: fixed;
+min-width: 700px;
+height: 570px;
+  }
+  #cover{
+    width: 100%;
+    height: auto;
+    border: 0px solid WHITE;
+    margin-top: -570px;
+    position: absolute;
+  background-color:WHITE; 
+    opacity: 0.5;
+min-width: 700px;
+height: 570px;
+
+  }
+  #circle{
+  
+    height: 300px;
+    width: 300px;
+border-radius: 100%;
+
+margin-top: -440px;
+position: absolute;
+margin-left: 40%;
+
+  }
+  p{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 1.3em;
+    font-family: 'Dancing Script', cursive;
+      width: 400px;
+      margin-left: -20%;
+
+  }
+
+#fash{
+
+  width: 450px;
+  height: 230px;
+background-image: url("assets/img/fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -440px;
+  margin-left: 780px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+background-position: center;
+transform: rotate(40deg);
+border-radius: 5px;
+}
+#curve{
+border-radius: 5px;
+  width: 450px;
+  height: 250px;
+background-image: url("fenceblack.jpeg");
+  border: 0px solid #8C4038;
+  margin-top: -210px;
+  margin-left: 610px;
+  background-size: 100%,80%;
+  background-repeat: no-repeat;
+background-position: center;
+transform: rotate(40deg);
+
+}
+#square1{
+  margin-top: 180px;
+  margin-left: 430px;
+width: 450px;
+  height: 250px;
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+background-image: url("fenceblack.jpeg");
+background-position: center;
+background-size: 100%;
+
+}
+#square4{
+  
+  margin-top: -30px;
+  margin-left: -310px;
+width: 450px;
+  height: 270px;
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+background-image: url("fenceblack.jpeg");
+
+
+}
+#square8{
+  
+  margin-top: -300px;
+  margin-left: -120px;
+width: 450px;
+  height: 270px;
+background-color: white;
+border: 0px solid black;
+transform: rotate(40deg);
+background-image: url("fenceblack.jpeg");
+
+}
+#square2{
+  margin-top: -370px;
+  margin-left: 420px;
+width: 450px;
+  height: 230px;
+background-color: white;
+
+background-image: url("fenceblack.jpeg");
+border: 0px solid black;
+transform: rotate(40deg);
+}
+#square5{
+  margin-top: -80px;
+  margin-left: 990px;
+width: 450px;
+
+background-image:  url("fenceblack.jpeg");
+
+  height: 230px;
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+
+}
+#square6{
+margin-top: -420px;
+  margin-left: 1150px;
+width: 450px;
+  height: 230px;
+  
+background-image:  url("fenceblack.jpeg");
+
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+}
+#square7{
+margin-top: -720px;
+  margin-left: 940px;
+width: 450px;
+  height: 230px;
+  
+background-image:  url("fenceblack.jpeg");
+
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+}
+#square3{
+  margin-top: -320px;
+  margin-left: -120px;
+width: 350px;
+  height: 230px;
+  
+background-image:  url("fenceblack.jpeg");
+
+background-color:white; 
+border: 0px solid black;
+transform: rotate(40deg);
+
+}
+
+.out{
+width: 100%;
+height:900px;
+border: 0px solid black;
+overflow: hidden;
+background-attachment: fixed;
+min-width: 700px;
+height: 570px;
+margin-top: 200px;
+  }
+  #cover{
+    width: 100%;
+    height: auto;
+    border: 0px solid WHITE;
+    margin-top: -570px;
+    position: absolute;
+  background-color:WHITE; 
+    opacity: 0.5;
+min-width: 700px;
+height: 570px;
+
+  }
+  #circle{
+  
+    height: 300px;
+    width: 300px;
+border-radius: 100%;
+
+margin-top: -440px;
+position: absolute;
+margin-left: 40%;
+
+  }
+  p{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 1.3em;
+    font-family: 'Dancing Script', cursive;
+      width: 400px;
+      margin-left: -20%;
+
+  }
+   body{
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  border: 0px solid black;
+ }
+ #all{
+width: 99%;
+height: auto;
+overflow: hidden;
+border: 0px solid black;
+ }
+ .nav{
+  width: 100%;
+  height: 70px;
+  border: 1px solid black;
+  background-color: black;
+  margin-top:750px;
+  position: fixed;
+  z-index: 1;
+ 
+ }
+  #one{
+   width: 48%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 3%;
+ display: inline-block;
+margin-top: 0px;
+overflow: hidden;
+  }
+  #book{
+   width: 100%;
+   height: 700px;
+  }
+   #two{
+   width: 48%;
+   height: 700px;
+   border: 0px solid black;
+overflow:hidden;
+margin-left: 0%;
+margin-top: 0px;
+display: inline-block;
+  }
+  #mobile{
+   width: 130%;
+   height: 700px;
+   
+  }
+ 
+ 
+  
+  h1{
+font-size: 4em;
+margin-top: -400px;
+margin-left: 0%;
+ font-family: 'Open Sans Condensed', sans-serif;
+width: 100%;
+color: white;
+z-index: 2;
+ text-align: center;
+ letter-spacing: 5px;
+  position: absolute;
+  }
+  p{
+   
+   font-size: 1.2em;
+   margin-top: 150px;
+   width: 30%;
+  
+   margin-left: 30%;
+   text-align: center;
+background-color: white;
+padding: 60px;
+padding-bottom: 90px;
+position: relative;
+opacity: 0.7;
+  }
+  ul{
+   margin-left: 31%;
+margin-top: 10px;
+  }
+  li{
+   color: white;
+   display: inline-block;
+margin-left: 10%;
+font-size: 1.2em;
+  }
+  h2{
+   font-family: 'Dancing Script', cursive;
+   letter-spacing: -2px;
+       font-size: 2em;
+      text-align: center;
+       margin-top: 20px;
+    width: 100%;
+    color: white;
+border: 0px solid black;
+  }
+  
+#app{
+ margin-top: -250px;
+ margin-left: 0%;
+ position: relative;
+ width: 97%;
+ height: 400px;
+ border: 0px solid black;
+ text-align: center;
+ color: white;
+ font-size: 2em;
+}
+#diamonds{
+ font-family: 'Anton', sans-serif;
+ margin-top: -600px;
+ position: absolute;
+ font-size: 7em;
+ letter-spacing: 9px;
+color: white;
+ margin-left: 2%;
+ border: 0px solid black;
+ width: 97%;
+ padding: 0px;
+ position: absolute;
+}
+ #aboutus{
+ width: 100%;
+ height: 530px;
+ border: 0px solid black;
+ margin-left: 0%;
+ background-image: url('phone2.jpeg');
+ background-size: 100%,50%;
+ margin-top:250px;
+ z-index: -1;
+}
+p{
+   
+   font-size: 1.2em;
+   margin-top: 0px;
+   width: 30%;
+  
+   margin-left: 55%;
+   text-align: center;
+background-color: black;
+padding: 100px;
+padding-bottom: 170px;
+padding-top: 170px;
+color: white;
+opacity: 0.9;
+  }
+   #one2{
+   width: 45%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 4%;
+ display: inline-block;
+margin-top: 0px;
+overflow: hidden;
+  }
+  #book2{
+   width: 100%;
+   height: 350px;
+  }
+   #two2{
+   width: 45%;
+   height: 350px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 2%;
+margin-top: 0px;
+display: inline-block;
+  }
+  #mobile2{
+   width: 130%;
+   height: 350px;
+   
+  }
+li:a{
+ color: white;
+}
+#portfolio{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: -80px;
+ padding: 0px;
+ width: 27%;
+position: absolute;
+margin-left: 37%;
+}
+#aboutp{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2vw;
+ margin-top: 100px;
+ padding: 10px;
+ width: 35%;
+position:absolute;
+margin-left: 32%;
+}
+#contactus{
+ width: 80%;
+margin-top:15px;
+   
+    border-top:0px solid black;
+
+    padding-top:20px;
+
+color:black;
+   text-align:center;
+}
+
+ #emailinfo{
+   width: 100%;
+     height:300px;
+     border:1px solid black;
+
+
+ }
+#contactus{
+ width: 100%;
+ text-align: center;
+ 
+ margin-top:10px;
+ color: white;
+}
+
+ #contactcontainer{
+
+     border:1px solid black;
+  
+ margin-top: 100px; 
+     display:grid;
+     grid-template-columns: 100%  ;
+     background-color: black; 
+ }
+     #phonepic{
+             width:47%;
+         height:130px;
+  margin-left: 30%;
+  margin-top: 50px;
+         border: 0px solid black;
+     }    
+
+   #contactus2{
+margin-top:10px;
+color:black;
+    text-align:center;
+    margin-left: 0%;
+    color: white;
+}
+ h4{
+     
+     text-align:center;
+     margin-top:120px;
+     color: white;
+ }
+h3{
+   
+     text-align:center;
+     margin-top:140px;
+
+}
+@media (max-width: 640px){
+
+  *{
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  border: 0px solid black;
+ }
+   
+.nav{
+ display: none;
+}
+#contactus{
+margin-top:55px;
+    border:0px solid red;
+width: 100%;
+  height: 100px;
+color:white;
+    text-align:center;
+}
+#contactus2{
+ width: 100%;
+ text-align: center;
+ opacity: 1;
+ position: static;
+ margin-top:10px;
+ color: white;
+}
+ #one{
+   width: 100%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 0.5%;
+ display: inline-block;
+margin-top: 300px;
+
+  }
+  #book{
+   width: 100%;
+   height: 500px;
+  }
+   #two{
+   width: 45%;
+   height: 500px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 1%;
+margin-top: -700px;
+display: inline-block;
+
+  }
+  #mobile{
+   width: 130%;
+   height: 500px;
+   
+  }
+ 
+ 
+  
+  h1{
+font-size: 6em;
+margin-top: 300px;
+margin-left: 0%;
+ font-family: 'Open Sans Condensed', sans-serif;
+ text-align: center;
+ letter-spacing: 5px;
+  position: relative;
+}
+  p{
+   
+   font-size: 1em;
+   margin-top: 350px;
+   width: 30%;
+  
+   margin-left: 30%;
+   text-align: center;
+background-color: white;
+padding: 80px;
+padding-bottom: 90px;
+
+opacity: 0.7;
+  }
+  ul{
+   margin-left: 31%;
+margin-top: 10px;
+  }
+  li{
+   color: white;
+   display: inline-block;
+margin-left: 10%;
+font-size: 1.2em;
+  }
+  h2{
+   font-family: 'Dancing Script', cursive;
+   letter-spacing: -2px;
+       font-size: 1em;
+      position: relative;
+       margin-top: 20px;
+    margin-left: -20%;
+    color: black;
+  }
+  
+#app{
+ margin-top: 250px;
+ 
+width: 100%;
+ border: 0px solid black;
+ text-align: center;
+ color: white;
+ font-size: 0.9em;
+ margin-left: 0%;
+}
+#diamonds{
+ font-family: 'Anton', sans-serif;
+ margin-top: 0px;
+ 
+ font-size: 1.5em;
+ letter-spacing: 9px;
+
+ margin-left: 0%;
+ border: 4px solid red;
+ color: black; 
+}
+ #aboutus{
+ width: 100%;
+ height: 300px;
+ border: 0px solid black;
+ margin-left: 0%;
+ background-size: 100%;
+ margin-top:100px;
+}
+p{
+   
+   font-size: 1em;
+   margin-top: -52px;
+   width: 50%;
+  
+   margin-left: 14%;
+   text-align: center;
+background-color: black;
+padding: 20px;
+opacity: 1;
+color: white;
+  }
+   #one2{
+   width: 47%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 0%;
+ display: inline-block;
+margin-top: -160px;
+overflow: hidden;
+  }
+  #book2{
+   width: 100%;
+   height: 100px;
+  }
+   #two2{
+   width: 47%;
+   height: 100px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 3%;
+margin-top: -1000px;
+display: inline-block;
+  }
+  #mobile2{
+   width: 130%;
+   height: 100px;
+   
+  }
+#portfolio{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: -150px;
+ padding: 0px;
+ width: 27%;
+position: absolute;
+margin-left: 34%;
+}
+#aboutp{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: 100px;
+ padding: 10px;
+ width: 35%;
+position:absolute;
+margin-left: 27%;
+color: white;
+}
+#contactus2{
+ width: 100%;
+ text-align: center;
+ opacity: 1;
+ position: static;
+ margin-top:10px;
+ color: white;
+}
+#bout{
+ display: none;
+}
+#port{
+ display: none;
+}
+#con{
+ display: none;
+}
+}
+@media  (max-width: 959px){
+  
+ #one{
+   width: 100%;
+   height:auto;
+   border: 0px solid black;
+ display: inline-block;
+margin-top: 0px;
+overflow: hidden;
+  }
+  #book{
+   width: 100%;
+   height: 300px;
+  }
+   #two{
+   width: 45%;
+   height: 200px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 1%;
+margin-top: -700px;
+display: inline-block;
+display: none;
+  }
+  #mobile{
+   width: 130%;
+   height: 200px;
+   
+  }
+ 
+ 
+  #contactus{
+margin-top:10px;
+    border:0px solid red;
+width: 100%;
+  height: 100px;
+color:white;
+    text-align:center;
+    margin-left: 0;
+}
+#contactus2{
+ width: 100%;
+ text-align: center;
+ opacity: 1;
+ position: static;
+ margin-top:10px;
+ color: white;
+}
+  h1{
+font-size: 1em;
+margin-top: -180px;
+margin-left: 0%;
+ font-family: 'Open Sans Condensed', sans-serif;
+ text-align: center;
+ letter-spacing: 5px;
+position: relative;
+  }
+  p{
+   
+   font-size: 1em;
+   margin-top: 150px;
+   width: 30%;
+  
+   margin-left: 30%;
+   text-align: center;
+background-color: white;
+padding: 80px;
+padding-bottom: 70px;
+position: relative;
+opacity: 0.7;
+  }
+  ul{
+   margin-left: 31%;
+margin-top: 10px;
+  }
+  li{
+   color: white;
+   display: inline-block;
+margin-left: 10%;
+font-size: 1.2em;
+  }
+  h2{
+   font-family: 'Dancing Script', cursive;
+   letter-spacing: -2px;
+       font-size: 1em;
+      
+       margin-top: 20px;
+    margin-left: -20%;
+    color: black;
+  }
+  
+#app{
+ margin-top: 40px;
+ 
+width: 100%;
+ border: 0px solid black;
+ text-align: center;
+ color: white;
+ font-size: 0.9em;
+ margin-left: 0%;
+}
+#diamonds{
+ font-family: 'Anton', sans-serif;
+ margin-top: -250px;
+ position: absolute;
+ font-size: 1.5em;
+ letter-spacing: 9px;
+color: white;
+ margin-left: 0%;
+ border: 0px solid black;
+ z-index: 1;
+ 
+}
+ #aboutus{
+ width: 100%;
+ height: 200px;
+ border: 0px solid black;
+ margin-left: 0%;
+ background-size: 100%;
+ margin-top:100px;
+}
+p{
+   
+   font-size: 1em;
+   margin-top: -52px;
+   width: 50%;
+  
+   margin-left: 14%;
+   text-align: center;
+background-color: black;
+padding: 20px;
+opacity: 1;
+color: white;
+  }
+   #one2{
+   width: 47%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 0%;
+ display: inline-block;
+margin-top: -160px;
+overflow: hidden;
+  }
+  #book2{
+   width: 100%;
+   height: 100px;
+  }
+   #two2{
+   width: 47%;
+   height: 100px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 3%;
+margin-top: -1000px;
+display: inline-block;
+  }
+  #mobile2{
+   width: 130%;
+   height: 100px;
+   
+  }
+#portfolio{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: -150px;
+ padding: 0px;
+ width: 27%;
+position: absolute;
+margin-left: 34%;
+}
+#aboutp{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: 100px;
+ padding: 0px;
+ width: 35%;
+position:absolute;
+margin-left: 27%;
+color: white;
+}
+#port{
+ display: none;
+}
+#con{
+ display: none;
+}
+
+}
