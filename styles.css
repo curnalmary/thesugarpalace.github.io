@@ -11550,7 +11550,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.0) 0%, rgba(0, 0, 0, 0.04) 35%, #A85EF2 100%), url("../assets/img/fluffypink.jpeg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.0) 0%, rgba(0, 0, 0, 0.04) 35%, #A85EF2 100%), url("fluffypink.jpeg");
   background-position:center;
   background-repeat: no-repeat;
   background-attachment: scroll;
